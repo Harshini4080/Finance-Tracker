@@ -55,7 +55,7 @@ npm run dev
 (![Screenshot 2025-07-01 105623](https://github.com/user-attachments/assets/7088d83b-08b3-4fae-b4f1-01eb07422ed4)
 )
 
-![Screenshot 2025-06-25 161136](![Screenshot 2025-07-01 105623](![Screenshot 2025-07-01 105634](https://github.com/user-attachments/assets/1fce24e9-9e88-4104-94d1-7380c5c3a477)
+(![Screenshot 2025-07-01 105623](![Screenshot 2025-07-01 105634](https://github.com/user-attachments/assets/1fce24e9-9e88-4104-94d1-7380c5c3a477)
 )
 
 
