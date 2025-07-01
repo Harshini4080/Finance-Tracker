@@ -1,0 +1,65 @@
+/* App.css */
+
+/* Default styles (light) */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f9fafb;
+  color: #1e293b;
+}
+
+/* Light theme wrapper */
+.light-mode {
+  background-color: #f9fafb;
+  color: #1e293b;
+}
+
+/* Dark theme wrapper */
+.dark-mode {
+  background-color: #0f172a;
+  color: #f1f5f9;
+}
+
+.dark-mode header {
+  background: rgba(30, 41, 59, 0.6);
+  color: #f1f5f9;
+  border-bottom: 1px solid #334155;
+}
+
+.dark-mode .content {
+  background-color: #1e293b;
+  color: #f1f5f9;
+}
+
+.table-row-dark {
+  background-color: #1f2937 !important;
+  color: #f1f5f9 !important;
+}
+
+.table-row-darker {
+  background-color: #111827 !important;
+  color: #f1f5f9 !important;
+}
+
+.table-row-light {
+  background-color: #ffffff;
+}
+
+.table-row-lighter {
+  background-color: #f9fafb;
+}
+
+
+/* Default row hover for light mode */
+.ant-table-tbody > tr:hover > td {
+  background: #f0f4f8 !important; /* Light grey */
+  transition: background 0.3s ease;
+}
+
+/* Override hover in dark mode */
+.dark-mode .ant-table-tbody > tr:hover > td {
+  background: #475569 !important; /* Slate grey */
+}
+
+
+/* You can also override ant component styles here if needed */
