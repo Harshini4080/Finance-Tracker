@@ -33,7 +33,7 @@ cd finance-tracker
    ```bash
 MONGO_URI=your_mongodb_connection_string
 PORT=4000
-JWT_SECRET=your_jwt_secret
+
 
 ```
 3.**Install Packages**
@@ -49,10 +49,10 @@ npm run dev
 
 ##  Screenshots
 
-![Screenshot 2025-06-25 161122](![Screenshot 2025-07-01 105600](https://github.com/user-attachments/assets/8e1a574d-1f89-4e96-8f56-533fb927fcdd)
+(![Screenshot 2025-07-01 10560](https://github.com/user-attachments/assets/8e1a574d-1f89-4e96-8f56-533fb927fcdd)
 )
 
-![Screenshot 2025-06-25 161136](![Screenshot 2025-07-01 105623](https://github.com/user-attachments/assets/7088d83b-08b3-4fae-b4f1-01eb07422ed4)
+(![Screenshot 2025-07-01 105623](https://github.com/user-attachments/assets/7088d83b-08b3-4fae-b4f1-01eb07422ed4)
 )
 
 ![Screenshot 2025-06-25 161136](![Screenshot 2025-07-01 105623](![Screenshot 2025-07-01 105634](https://github.com/user-attachments/assets/1fce24e9-9e88-4104-94d1-7380c5c3a477)
